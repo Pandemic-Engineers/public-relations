@@ -5,16 +5,17 @@
 
 Thursday, March 12, 2020   
 
-Project Open Air is tackling the fight against Covid-19 by producing open-sourced, accesible medical devices. We are a community of engineers, developers, and medical experts who are working on providing accesible medical devices, such as open source ventilators, that can be reproduced and assembled locally worldwide. Our aim is to create accesible solutions for 3D-printable ventilators so local communities can print on site. 
+Project Open Air is marshalling volunteer resources to aid the fight against Covid-19.  We are a community of engineers, developers, and medical professionals who are organizing our diverse talents to develop practical solutions to some of the challenges we might face during this pandemic. Our mission is to brainstorm and develop accessible, community-shared products (both hardware and software) to fill in gaps in preparedness in the medical and logistical spaces.    
 
-Right now we have engineers, PhDs, and the owner of a devices manufacturing company, with a supply chain and offices in New York, Florida, and Taiwan. Although we cannot build ICUs, our team have the capability to help relief the burdened medical front-line in a crisis.
+As of this release, our team is comprised of engineers, PhDs, and CEOs from multiple industries. Our supply chain and reach will be international. Drawing on expertise in the medical, research and tech communities, our team is quickly bolstering our capacity and organizing our talents. We are currently accepting all interested volunteer applicants at [insert website or google form]. In addition, we are seeking talent to contribute to our open source [Github project](https://github.com/Pandemic-Engineers/).   
 
-In order for our team to get started, we need digital capacity in scaling our solutions in various cloud platforms for storage and distribution of our solutions.  Some of the platforms we decided to adopt are AWS cloud, Azure, Bandcamp, and JIRA to bring speedy agile development to the community.  We are seeking out other suggestions and help our engineers get started.  
+We are growing fast. Our volunteers are eager and determined to donate their time and resources; we are building a dynamic community. However, in order to efficiently ramp up our efforts and take advantage of the overwhelming outpouring of collective determination, we need our digital resources to keep pace. Our engineers and team members are quickly exhausting the capacity of free cloud offerings and storage/distribution channels. We are asking for tech industry leaders such as AWS cloud, Azure, Bandcamp, and JIRA to help us bring agile development to our community through any resources they can donate.  
 
-In addition, we are seeking talent to contribute to our open source [Github project](https://github.com/Pandemic-Engineers/).   
+This is a tough time and for most of us, an unprecedented crisis. As scary as it can be, we believe that through combining our efforts and getting to work, we can have a positive impact and help each other get through this. 
 
-To help us accomplish our goal please contact us at 
-[contact info here]
+Please direct all comments and inquiries to [point person] 
+[additional contact info here]
+
 
 
 ###
