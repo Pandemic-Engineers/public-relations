@@ -1,7 +1,7 @@
-# Project Open Air Need Your Help in Fighting Covid-19  
+# Project Open Air Needs Your Help in Fighting Covid-19  
 
 ## For Immediate Release   
-## Project Open Air Need Your Help in Fighting Covid-19  
+## Project Open Air Needs Your Help in Fighting Covid-19  
 
 Thursday, March 12, 2020   
 
