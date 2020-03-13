@@ -14,7 +14,9 @@ We are growing fast. Our volunteers are eager and determined to donate their tim
 
 This is a tough time and for most of us, an unprecedented crisis. As scary as it can be, we believe that through combining our efforts and getting to work, we can have a positive impact and help each other get through this. 
 
-Please direct all comments and inquiries to Ann Kim Hoang, Project Open Air Software Lead Manager. 
-Cell: ‪(202) 681-8451‬
+Please direct all comments and inquiries to Ann Kim Hoang, Project Open Air Software Lead Manager.   
+
+Cell: ‪(202) 681-8451‬. 
 Email: opensourcehumankind@gmail.com
+
 ###
