@@ -1,12 +1,12 @@
-# Project Open Air Needs Your Help in Fighting Covid-19  
+# Project Open Air Needs Your Help in Fighting COVID-19  
 
 ### For Immediate Release   
-### Project Open Air Needs Your Help in Fighting Covid-19  
+### Project Open Air Needs Your Help in Fighting COVID-19  
 
 Friday, March 13, 2020  
 By: Ann Kim Hoang
 
-Project Open Air is marshaling volunteer resources to aid the fight against Covid-19.  We are a community of engineers, developers, and medical professionals who are organizing our diverse talents to develop practical solutions to some of the challenges we might face during this pandemic. Our mission is to brainstorm and develop accessible, community-shared products (both hardware and software) to fill in gaps in preparedness in the medical and logistical spaces.    
+Project Open Air is marshaling volunteer resources to aid the fight against COVID-19.  We are a community of engineers, developers, and medical professionals who are organizing our diverse talents to develop practical solutions to some of the challenges we might face during this pandemic. Our mission is to brainstorm and develop accessible, community-shared products (both hardware and software) to fill in gaps in preparedness in the medical and logistical spaces.    
 
 As of this release, our team is comprised of engineers, PhDs, and CEOs from multiple industries. Our supply chain and reach will be international. Drawing on expertise in the medical, research and tech communities, our team is quickly bolstering our capacity and organizing our talents. We are currently [accepting all interested volunteer and applicants](https://www.projectopenair.org/). In addition, we are seeking talent to contribute to our open source [Github project](https://github.com/Pandemic-Engineers/).   
 
